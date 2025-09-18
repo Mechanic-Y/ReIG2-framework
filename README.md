@@ -81,8 +81,7 @@ MIT License
 
 - [docs/philosophy.md](docs/philosophy.md): ReIG2の思想と「未来への手紙」  
 - [samples/minimal_pipeline.py](samples/minimal_pipeline.py): 最小限動作するパイプライン例 
-- 基本デモ:[examples/basic_resonance.py]
--RAG検索デモ:[examples/rag_search.py]
--安全ゲート・ナッジデモ:[examples/dual_gate_safety.py]
-
+- [examples/basic_resonance.py](examples/basic_resonance.py): 基本デモ
+- [examples/rag_search.py](examples/rag_search.py):　RAG検索デモ
+- [examples/dual_gate_safety.py](examples/dual_gate_safety.py): 安全ゲート・ナッジデモ
 
